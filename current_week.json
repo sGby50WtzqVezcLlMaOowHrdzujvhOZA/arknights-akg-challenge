@@ -1,0 +1,35 @@
+{
+  "event": "Heart of Surging Flame",
+  "challenges": [
+    {
+      "name": "No snipers allowed",
+      "categoryName": "Anti-Classknights",
+      "categoryDescription": "",
+      "maxPicks": 5
+    },
+    {
+      "name": "Only operators featured in this event story",
+      "categoryName": "Themeknights",
+      "categoryDescription": "",
+      "maxPicks": 5
+    },
+    {
+      "name": "Casters only",
+      "categoryName": "Classknights",
+      "categoryDescription": "Only this class allowed!",
+      "maxPicks": 1
+    },
+    {
+      "name": "Sarkazknights",
+      "categoryName": "Raceknights",
+      "categoryDescription": "Make your gimmick ethnosquad dreams come true!",
+      "maxPicks": 1
+    },
+    {
+      "name": "No defenders allowed",
+      "categoryName": "Anti-Classknights",
+      "categoryDescription": "",
+      "maxPicks": 5
+    }
+  ]
+}

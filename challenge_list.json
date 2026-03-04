@@ -1,0 +1,106 @@
+[
+  {
+    "categoryName": "Raceknights",
+    "categoryDescription": "Make your gimmick ethnosquad dreams come true!",
+    "maxPicks": 1,
+    "challenges": [
+      {
+        "name": "Liberiknights"
+      },
+      {
+        "name": "Sarkazknights"
+      },
+      {
+        "name": "Sanktaknights"
+      }
+    ]
+  },
+  {
+    "categoryName": "Factionknights",
+    "categoryDescription": "Only this one faction allowed, lack of synergy be damned.",
+    "maxPicks": 1,
+    "challenges": [
+      {
+        "name": "Rhineknights"
+      },
+      {
+        "name": "Karlanknights"
+      }
+    ]
+  },
+  {
+    "categoryName": "Classknights",
+    "categoryDescription": "Only this class allowed!",
+    "maxPicks": 1,
+    "challenges": [
+      {
+        "name": "Vanguards only"
+      },
+      {
+        "name": "Guards only"
+      },
+      {
+        "name": "Defenders only"
+      },
+      {
+        "name": "Snipers only"
+      },
+      {
+        "name": "Casters only"
+      },
+      {
+        "name": "Medics only"
+      },
+      {
+        "name": "Supporters only"
+      },
+      {
+        "name": "Specialists only"
+      }
+    ]
+  },
+  {
+    "categoryName": "Anti-Classknights",
+    "categoryDescription": "",
+    "maxPicks": 5,
+    "challenges": [
+      {
+        "name": "No vanguards allowed"
+      },
+      {
+        "name": "No guards allowed"
+      },
+      {
+        "name": "No defenders allowed"
+      },
+      {
+        "name": "No snipers allowed"
+      },
+      {
+        "name": "No casters allowed"
+      },
+      {
+        "name": "No medics allowed"
+      },
+      {
+        "name": "No supporters allowed"
+      },
+      {
+        "name": "No specialists allowed"
+      }
+    ]
+  },
+  {
+    "categoryName": "Themeknights",
+    "categoryDescription": "",
+    "maxPicks": 5,
+    "challenges": [
+      {
+        "name": "Only operators featured in this event story"
+      },
+      {
+        "name": "Fashionknights (operators in non-default outfits only)"
+      }
+    ]
+  }
+]
